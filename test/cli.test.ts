@@ -6,6 +6,7 @@
  */
 // the below, there's lots of un-awaited promises for testing
 
+
 import { expect } from 'chai';
 import {
   configureAutoUpdate,
